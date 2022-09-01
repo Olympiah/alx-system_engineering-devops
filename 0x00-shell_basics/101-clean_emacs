@@ -1,2 +1,5 @@
 #!/bin/bash
-rm *~
+
+#rm *~
+
+find . -name '*.~' -delete
