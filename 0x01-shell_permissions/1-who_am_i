@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Username : $(id -u -n)"
+echo "$(id -u -n)"
